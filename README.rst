@@ -1,3 +1,6 @@
+.. image:: https://travis-ci.org/DeastinY/screencontrol.svg?branch=master
+    :target: https://travis-ci.org/DeastinY/screencontrol
+
 Manual setup
 ============
 
