@@ -1,4 +1,6 @@
-## Manual setup
+Manual setup
+============
+
 - Install [ddcutil](http://www.ddcutil.com/#introduction)
 - Detect screens `sudo ddcutil detect`
 - Check for the display capabilities `sudo ddcutil capabilities --display X`
